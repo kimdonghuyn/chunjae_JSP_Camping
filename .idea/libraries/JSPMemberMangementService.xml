@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="JSPMemberMangementService">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../JSPMemberMangementService" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../JSPMemberMangementService/src" />
+    </SOURCES>
+  </library>
+</component>

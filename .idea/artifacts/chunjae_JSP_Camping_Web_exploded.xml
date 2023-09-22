@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="chunjae_JSP_Camping:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/chunjae_JSP_Camping_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="chunjae_JSP_Camping/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="chunjae_JSP_Camping" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
